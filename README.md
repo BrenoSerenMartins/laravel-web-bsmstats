@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BSMStats
 
 BSMStats é um SaaS de estatísticas e analytics para jogos competitivos, construído com Laravel. A plataforma oferece dashboards, histórico de partidas e insights detalhados para jogadores de games como League of Legends e Valorant.
