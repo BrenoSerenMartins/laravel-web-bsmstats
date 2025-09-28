@@ -27,6 +27,11 @@
     </header>
 
     <main>
+        @if (session('status'))
+            <div class="bg-green-500 text-white font-bold rounded-lg p-4 mb-4">
+                {{ session('status') }}
+            </div>
+        @endif
         @yield('content')
     </main>
 </div>
